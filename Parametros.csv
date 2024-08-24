@@ -10,7 +10,7 @@ Limite de Tempo de Condução,09:00
 Limite de Tempo de Trabalho,10:00
 Tempo para cada Entrega,00:45
 Depósito de Retorno,Sim
-Número de Veículos Disponíveis,3
+Número de Veículos Disponíveis,15
 Otimização multi-objetivo,Sim
 Objetivos de Otimização,"Distância,Tempo,Carga,Custo"
 Peso Distância,30
