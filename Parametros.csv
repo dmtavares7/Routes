@@ -4,10 +4,6 @@ Tipo de Veículo;Truck;Aqui é só informativo
 Custo Fixo por Viagem;0;Caso haja custo para calculo
 Custo por Unidade de Distância;8;Aqui é custo por KM
 Limite de Distância Km;600;Limite de KM para cada Rota
-Hora de Início do Trabalho;08:00;Horario do Inicio das Entregas
-Limite de Tempo de Condução;09:00;Tempo dirigindo
-Limite de Tempo de Trabalho;10:00;Jornada Inteira
-Tempo para cada Entrega;00:45;Tempo parado entregado
 Depósito de Retorno;Não;Sinaliza Se a rota finaliza no ponto de partida (Sim ou Não)
 Otimização multi-objetivo;Sim;Sinaliza que haverá Otimização Extra (Sim ou Não)
 Objetivos de Otimização;Distância,Tempo,Carga,Custo;Pode ser todos ou qulquer combinação ( sempre de  0 a 100 )

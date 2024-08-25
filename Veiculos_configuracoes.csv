@@ -1,13 +1,13 @@
-﻿Código;Habilitado;Placa;Mínimo de serviços (pedidos );Máximo de Serviços (pedidos );Base Operacional (Vinculo do Veiculo );Horário de operação - Início (jornada);Horário de operação - Fim (Jornada);"Zonas atendidas ( Caso Exista, preencher e separar com ""|"", senão deixar vazio)";"Habilidades ( Caso Haja, prencher separado por ""|"", não haja, deixar vazio)";Agentes permitidos;Transportadora (Informativo);Peso (Capcidade);Volumes (capacidade);Valor (capacidade);Metros Cúbicos (capacidade);Custo (por rota);Custo (por serviço);Custo (por tempo);Custo (por distância)
-V001;Sim;ABC1234;1;14;CD JBT;08:00;18:00;;;João|Maria;Transportes Ltda;14000;180;50000;16;0;0;0;8
-V002;Sim;DEF5678;1;12;CD JBT;08:00;18:00;;;Pedro|Ana;Logística SA;14000;180;40000;12;0;0;0;8
-V003;Sim;ABC1235;1;15;CD JBT;08:00;18:00;;;João|Maria;Transportes Ltda;14000;180;30000;8;0;0;0;8
-V004;Sim;DEF5679;1;13;CD JBT;08:00;18:00;;;Pedro|Ana;Logística SA;14000;180;20000;4;0;0;0;8
-V005;Sim;ABC1236;1;14;CD SPO;08:00;18:00;;;Carlos;Entregas Rápidas;14000;180;60000;20;0;0;0;8
-V006;Sim;DEF5680;1;14;CD SPO;08:00;18:00;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V007;Sim;ABC1237;1;14;CD SPO;08:00;18:00;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V008;Sim;DEF5681;1;12;CD SPO;08:00;18:00;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V009;Sim;ABC1238;1;13;CD BEL;08:00;18:00;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V010;Sim;DEF5682;1;13;CD BEL;08:00;18:00;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V011;Sim;ABC1239;1;15;CD BEL;08:00;18:00;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V012;Sim;DEF5683;1;16;CD BEL;08:00;18:00;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+﻿Código;Habilitado;Placa;Mínimo de serviços (pedidos );Máximo de Serviços (pedidos);Base Operacional (Vinculo do Veiculo );Horário de operação - Início (jornada);Horario de Parada (refeição);Horário de operação - Fim (Jornada);Tempo de Jornada Dirigindo;Tempo para cada Entrega;"Zonas atendidas ( Caso Exista, preencher e separar com ""|"", senão deixar vazio)";"Habilidades ( Caso Haja, prencher separado por ""|"", não haja, deixar vazio)";Agentes permitidos;Transportadora (Informativo);Peso (Capcidade);Volumes (capacidade);Valor (capacidade);Metros Cúbicos (capacidade);Custo (por rota);Custo (por serviço);Custo (por tempo);Custo (por distância)
+V001;Sim;ABC1234;1;14;CD JBT;08:00;01:00;18:00;09:00;00:45;;;João|Maria;Transportes Ltda;14000;180;50000;16;0;0;0;8
+V002;Sim;DEF5678;1;12;CD JBT;08:00;01:00;18:00;09:00;00:45;;;Pedro|Ana;Logística SA;14000;180;40000;12;0;0;0;8
+V003;Sim;ABC1235;1;15;CD JBT;08:00;01:00;18:00;09:00;00:45;;;João|Maria;Transportes Ltda;14000;180;30000;8;0;0;0;8
+V004;Sim;DEF5679;1;13;CD JBT;08:00;01:00;18:00;09:00;00:45;;;Pedro|Ana;Logística SA;14000;180;20000;4;0;0;0;8
+V005;Sim;ABC1236;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Carlos;Entregas Rápidas;14000;180;60000;20;0;0;0;8
+V006;Sim;DEF5680;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V007;Sim;ABC1237;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V008;Sim;DEF5681;1;12;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V009;Sim;ABC1238;1;13;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V010;Sim;DEF5682;1;13;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V011;Sim;ABC1239;1;15;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V012;Sim;DEF5683;1;16;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda|Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
