@@ -3,12 +3,12 @@ Saída do CD;Sim
 Tipo de Veículo;Truck
 Custo Fixo por Viagem;0
 Custo por Unidade de Distância;8
-Limite de Distância Km;600
+Limite de Distância Km;800
 Hora de Início do Trabalho;08:00
 Limite de Tempo de Condução;09:00
 Limite de Tempo de Trabalho;10:00
 Tempo para cada Entrega;00:45
-Depósito de Retorno;Sim
+Depósito de Retorno;Não
 Otimização multi-objetivo;Sim
 Objetivos de Otimização;Distância,Tempo,Carga,Custo
 Peso Distância;30
