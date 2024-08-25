@@ -1,7 +1,6 @@
 ﻿Parâmetro;Valor
 Saída do CD;Sim
 Tipo de Veículo;Truck
-Capacidade de Pedidos;15
 Custo Fixo por Viagem;0
 Custo por Unidade de Distância;8
 Limite de Distância Km;600
@@ -10,7 +9,6 @@ Limite de Tempo de Condução;09:00
 Limite de Tempo de Trabalho;10:00
 Tempo para cada Entrega;00:45
 Depósito de Retorno;Sim
-Número de Veículos Disponíveis;3
 Otimização multi-objetivo;Sim
 Objetivos de Otimização;Distância,Tempo,Carga,Custo
 Peso Distância;30
