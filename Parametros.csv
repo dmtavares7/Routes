@@ -1,10 +1,10 @@
 ﻿Parâmetro;Valor
 Saída do CD;Sim
 Tipo de Veículo;Truck
-Capacidade de Pedidos;12
-Custo Fixo por Viagem;100
+Capacidade de Pedidos;15
+Custo Fixo por Viagem;0
 Custo por Unidade de Distância;8
-Limite de Distância Km;300
+Limite de Distância Km;600
 Hora de Início do Trabalho;08:00
 Limite de Tempo de Condução;09:00
 Limite de Tempo de Trabalho;10:00
