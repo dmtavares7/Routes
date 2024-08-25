@@ -1,0 +1,7 @@
+Código;Habilitado;Placa;Mínimo de serviços;Base Operacional;Horário de operação - Início;Horário de operação - Fim;Zonas atendidas;Habilidades;Agentes permitidos;Transportadora;Peso;Volumes;Valor;Metros Cúbicos;Custo (por rota);Custo (por serviço);Custo (por tempo);Custo (por distância)
+V001;Sim;ABC1234;5;CD REC;08:00;18:00;Zona Norte|Zona Sul;Refrigerado;João|Maria;Transportes Ltda;3500;20;50000;16;100;10;30;2
+V002;Sim;DEF5678;3;CD REC;09:00;19:00;Zona Oeste;Carga Seca;Pedro|Ana;Logística SA;2500;15;40000;12;90;8;25;1.8
+V003;SIM;GHI9012;4;CD SPO;07:00;17:00;Zona Leste;Carga Perigosa;Carlos;Entregas Rápidas;4000;25;60000;20;110;12;35;2.2
+V004;Sim;JKL3456;6;CD SPO;08:30;18:30;Zona Central;Mudança;Fernanda|Ricardo;Transporte Seguro;3000;18;45000;14;95;9;28;1.9
+V005;Sim;JKL3458;6;CD BEL;08:30;18:30;Zona Central;Mudança;Fernanda|Ricardo;Transporte Seguro;3000;18;45000;14;95;9;28;1.9
+V006;Sim;JKL3450;6;CD BEL;08:30;18:30;Zona Central;Mudança;Fernanda|Ricardo;Transporte Seguro;3000;18;45000;14;95;9;28;1.9
