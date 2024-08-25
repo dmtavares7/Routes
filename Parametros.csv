@@ -1,21 +1,21 @@
-Parâmetro,Valor
-Saída do CD,Sim
-Tipo de Veículo,Truck
-Capacidade de Pedidos,12
-Custo Fixo por Viagem,100
-Custo por Unidade de Distância,8
-Limite de Distância Km,300
-Hora de Início do Trabalho,08:00
-Limite de Tempo de Condução,09:00
-Limite de Tempo de Trabalho,10:00
-Tempo para cada Entrega,00:45
-Depósito de Retorno,Sim
-Número de Veículos Disponíveis,15
-Otimização multi-objetivo,Sim
-Objetivos de Otimização,"Distância,Tempo,Carga,Custo"
-Peso Distância,30
-Peso Tempo,25
-Peso Balanceamento de Carga,20
-Peso Custo,25
-Prioridade Janelas de Entrega,80
-Limite de Emissões CO2,1000
+﻿Parâmetro;Valor
+Saída do CD;Sim
+Tipo de Veículo;Truck
+Capacidade de Pedidos;12
+Custo Fixo por Viagem;100
+Custo por Unidade de Distância;8
+Limite de Distância Km;300
+Hora de Início do Trabalho;08:00
+Limite de Tempo de Condução;09:00
+Limite de Tempo de Trabalho;10:00
+Tempo para cada Entrega;00:45
+Depósito de Retorno;Sim
+Número de Veículos Disponíveis;3
+Otimização multi-objetivo;Sim
+Objetivos de Otimização;Distância,Tempo,Carga,Custo
+Peso Distância;30
+Peso Tempo;25
+Peso Balanceamento de Carga;20
+Peso Custo;25
+Prioridade Janelas de Entrega;80
+Limite de Emissões CO2;1000
