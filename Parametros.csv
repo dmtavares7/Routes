@@ -5,7 +5,7 @@ Custo Fixo por Viagem;0;Caso haja custo para calculo
 Custo por Unidade de Distância;8;Aqui é custo por KM
 Limite de Distância Km;600;Limite de KM para cada Rota
 Depósito de Retorno;Não;Sinaliza Se a rota finaliza no ponto de partida (Sim ou Não)
-Otimização multi-objetivo;Sim;Sinaliza que haverá Otimização Extra (Sim ou Não)
+Otimização multi-objetivo;Não;Sinaliza que haverá Otimização Extra (Sim ou Não)
 Objetivos de Otimização;Distância,Tempo,Carga,Custo;Pode ser todos ou qulquer combinação ( sempre de  0 a 100 )
 Peso Distância;30;Peso que a Distancia tem no algoritimo
 Peso Tempo;25;Peso que o Tempo tem no Algoritimo
