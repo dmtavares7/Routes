@@ -1,16 +1,16 @@
-﻿Parâmetro;Valor;Detalhes
+Parâmetro;Valor;Detalhes
 Saída do CD;Sim;Sinaliza que se houver um ponto de partida, precisa sair dele
 Tipo de Veículo;Truck;Aqui é só informativo
 Custo Fixo por Viagem;0;Caso haja custo para calculo
 Custo por Unidade de Distância;8;Aqui é custo por KM
-Limite de Distância Km;600;Limite de KM para cada Rota/Veiculo
+Limite de Distância Km;700;Limite de KM para cada Rota/Veiculo (aumentado para mais flexibilidade)
 Depósito de Retorno;Não;Sinaliza Se a rota finaliza no ponto de partida (Sim ou Não)
-Tempo limite de busca;30;Tempo onde o código ira perdurar em busca de soluções (em segundos)
-Otimização multi-objetivo;Sim;Sinaliza que haverá Otimização Extra (Sim ou Não)
-Objetivos de Otimização;Distância,Tempo,Carga,Custo;Pode ser todos ou qulquer combinação ( sempre de  0 a 100 )
-Peso Distância;30;Peso que a Distancia tem no algoritimo
-Peso Tempo;25;Peso que o Tempo tem no Algoritimo
-Peso Balanceamento de Carga;10;Peso que o Balanceamento tem no Algoritimo
-Peso Custo;10;Peso que o Custo tem no Algoritimo
-Prioridade Janelas de Entrega;80;Peso que as Janelas de Entrega tem no Algoritimo
+Tempo limite de busca;60;Tempo onde o código irá perdurar em busca de soluções (em segundos, aumentado)
+Otimização multi-objetivo;Sim;Sinaliza que haverá Otimização Extra (mudado para Sim)
+Objetivos de Otimização;Distância,Tempo,Carga,Custo;Pode ser todos ou qualquer combinação ( sempre de  0 a 100 )
+Peso Distância;25;Peso que a Distância tem no algoritmo (ajustado)
+Peso Tempo;25;Peso que o Tempo tem no Algoritmo (mantido)
+Peso Balanceamento de Carga;20;Peso que o Balanceamento tem no Algoritmo (aumentado)
+Peso Custo;15;Peso que o Custo tem no Algoritmo (aumentado ligeiramente)
+Prioridade Janelas de Entrega;60;Peso que as Janelas de Entrega tem no Algoritmo (reduzido para mais flexibilidade)
 Limite de Emissões CO2;0;Limite para Emissões
