@@ -1,13 +1,13 @@
-﻿codigo;veiculo_ativo;placa;minimo_servicos;maximo_serviços;Base Operacional (Vinculo do Veiculo );inicio_jornada;intervalo_jornada;fim_jornada;tempo_dirigindo;tempo_por_entrega;zonas (separado por virgulas);habilidades (separado por virgulas);Agentes permitidos;Transportadora (Informativo);peso_kg;volumes_qtd;valor_r$;m³;custo_rota;custo_serviço;custo_tempo;custo_km
-V001;Sim;ABC1234;1;14;CD JBT;08:00;01:00;18:00;09:00;00:45;;;João,Maria;Transportes Ltda;14000;180;50000;16;0;0;0;8
-V002;Sim;DEF5678;1;12;CD JBT;08:00;01:00;18:00;09:00;00:45;;;Pedro,Ana;Logística SA;14000;180;40000;12;0;0;0;8
-V003;Sim;ABC1235;1;15;CD JBT;08:00;01:00;18:00;09:00;00:45;;;João,Maria;Transportes Ltda;14000;180;30000;8;0;0;0;8
-V004;Sim;DEF5679;1;13;CD JBT;08:00;01:00;18:00;09:00;00:45;;;Pedro,Ana;Logística SA;14000;180;20000;4;0;0;0;8
-V005;Sim;ABC1236;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Carlos;Entregas Rápidas;14000;180;60000;20;0;0;0;8
-V006;Sim;DEF5680;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V007;Sim;ABC1237;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V008;Sim;DEF5681;1;12;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V009;Sim;ABC1238;1;13;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V010;Sim;DEF5682;1;13;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V011;Sim;ABC1239;1;15;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
-V012;Sim;DEF5683;1;16;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+﻿codigo;veiculo_ativo;placa;velocidade_media;minimo_servicos;maximo_serviços;Base Operacional (Vinculo do Veiculo );inicio_jornada;intervalo_jornada;fim_jornada;tempo_dirigindo;tempo_por_entrega;zonas (separado por virgulas);habilidades (separado por virgulas);Agentes permitidos;Transportadora (Informativo);peso_kg;volumes_qtd;valor_r$;m³;custo_rota;custo_serviço;custo_tempo;custo_km
+V001;Sim;ABC1234;70;1;14;CD JBT;08:00;01:00;18:00;09:00;00:45;;;João,Maria;Transportes Ltda;14000;180;50000;16;0;0;0;8
+V002;Sim;DEF5678;70;1;12;CD JBT;08:00;01:00;18:00;09:00;00:45;;;Pedro,Ana;Logística SA;14000;180;40000;12;0;0;0;8
+V003;Sim;ABC1235;70;1;15;CD JBT;08:00;01:00;18:00;09:00;00:45;;;João,Maria;Transportes Ltda;14000;180;30000;8;0;0;0;8
+V004;Sim;DEF5679;70;1;13;CD JBT;08:00;01:00;18:00;09:00;00:45;;;Pedro,Ana;Logística SA;14000;180;20000;4;0;0;0;8
+V005;Sim;ABC1236;70;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Carlos;Entregas Rápidas;14000;180;60000;20;0;0;0;8
+V006;Sim;DEF5680;70;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V007;Sim;ABC1237;70;1;14;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V008;Sim;DEF5681;70;1;12;CD SPO;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V009;Sim;ABC1238;70;1;13;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V010;Sim;DEF5682;70;1;13;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V011;Sim;ABC1239;70;1;15;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
+V012;Sim;DEF5683;70;1;16;CD BEL;08:00;01:00;18:00;09:00;00:45;;;Fernanda,Ricardo;Transporte Seguro;14000;180;45000;14;0;0;0;8
